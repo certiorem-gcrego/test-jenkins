@@ -1,6 +1,6 @@
 node {
    stage('Preparation') { // for display purposes
-      echo 'Downloading code'
+      echo 'Downloading codee'
    }
    stage('Compile') {
       echo 'Compiling'
